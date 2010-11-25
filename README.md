@@ -20,3 +20,8 @@ Here we are
 This application is a proxy that takes data from [Github](http://github.com) and returns it to user with corresponding header. I've hosted it on [Heroku](http://heroku.com). For the gist above it would be [http://gisted.heroku.com/714121/index.html](http://gisted.heroku.com/714121/index.html).
 
 I've also made gist page. It use Gist API to show files in gist [http://gisted.heroku.com/714121/](http://gisted.heroku.com/714121/). Root page shows introduction and form to input gist id.
+
+Future
+------
+
+I'd like to have revisions in Gist API. So the user will be able to check each change.
